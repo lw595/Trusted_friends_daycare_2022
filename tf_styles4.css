@@ -52,7 +52,8 @@ section aside {
 }
 nav.horizontal ul {
   display: flex;
-  flex-flow: row wrap;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 
 
